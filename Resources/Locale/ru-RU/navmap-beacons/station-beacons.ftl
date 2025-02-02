@@ -12,7 +12,7 @@ station-beacon-warden = Смотритель
 station-beacon-hos = Кабинет ГСБ
 station-beacon-armory = Оружейная
 station-beacon-perma-brig = Пермабриг
-station-beacon-detective = Детектив
+station-beacon-detective = следователь
 station-beacon-courtroom = Зал суда
 # Corvax-Localization-Start
 station-beacon-law = Офис АВД

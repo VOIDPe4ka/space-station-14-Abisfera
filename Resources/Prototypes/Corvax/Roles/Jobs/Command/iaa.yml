@@ -5,13 +5,11 @@
   playTimeTracker: JobIAA
   requirements:
   - !type:DepartmentTimeRequirement
-    department: Command
-    time: 72000
-  - !type:DepartmentTimeRequirement
     department: Security
-    time: 36000
-  - !type:AgeRequirement
-    requiredAge: 21
+    time: 10800 #3 hrs
+  - !type:RoleTimeRequirement
+    role: JobLawyer
+    time: 10800 #3 hrs
   startingGear: IAAGear
   icon: "JobIconIAA"
   supervisors: job-supervisors-centcom

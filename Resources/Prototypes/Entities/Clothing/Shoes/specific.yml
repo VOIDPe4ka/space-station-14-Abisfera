@@ -45,7 +45,6 @@
   # for H.O.N.K. construction
   - type: Tag
     tags:
-    - ClownShoes
     - WhitelistChameleon
 
 - type: entity

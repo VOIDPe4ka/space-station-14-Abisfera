@@ -19,7 +19,7 @@
     - junk
     - meteorhell
   name: kessler-syndrome-title
-  showInVote: true # Corvax-Next-Democracy
+  showInVote: false # Corvax-Next-Democracy
   description: kessler-syndrome-description
   rules:
     - KesslerSyndromeScheduler
@@ -91,7 +91,7 @@
   showInVote: true # Corvax-Next-Democracy
   description: greenshift-description
   rules:
-  - SpaceTrafficControlFriendlyEventScheduler
+  - SpaceTrafficControlFriendlyEventScheduler 
   - BasicRoundstartVariation
 
 - type: gamePreset
@@ -126,7 +126,7 @@
   showInVote: false #Admin Use
   description: secret-description
   rules:
-  - SpaceTrafficControlFriendlyEventScheduler
+  - SpaceTrafficControlFriendlyEventScheduler 
   - BasicRoundstartVariation
 
 - type: gamePreset
@@ -227,7 +227,7 @@
   - meteombies
   name: zombieteors-title
   description: zombieteors-description
-  showInVote: true # Corvax-Next-Democracy
+  showInVote: false # Corvax-Next-Democracy
   rules:
   - Zombie
   - BasicStationEventScheduler
