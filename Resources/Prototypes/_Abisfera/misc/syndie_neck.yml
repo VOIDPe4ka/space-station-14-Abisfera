@@ -1,0 +1,8 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakSyndieOfficer
+  name: Плащ офицера синдиката
+  description: У вас невероятная власть на станции, не так ли?
+  components:
+  - type: Sprite
+    sprite: _Abisfera/syndie_neck.rsi
