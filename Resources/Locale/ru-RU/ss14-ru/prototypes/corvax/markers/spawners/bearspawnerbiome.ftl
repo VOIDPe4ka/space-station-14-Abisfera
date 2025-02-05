@@ -1,2 +1,2 @@
-ent-SpawnerMobBearBiome = спавнер космический медведь
+ent-SpawnerMobBearBiome = space bear spawner
     .desc = { ent-MarkerBase.desc }
