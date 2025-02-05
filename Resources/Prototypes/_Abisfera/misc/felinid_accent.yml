@@ -2,8 +2,8 @@
   id: FelinidAccent
   name: trait-felinid-accent-name
   description: trait-felinid-accent-desc
-  components:
   category: SpeechTraits
   cost: 1
+  components:
   - type: OwOAccent
     
