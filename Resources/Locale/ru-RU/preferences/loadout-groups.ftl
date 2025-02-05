@@ -132,10 +132,10 @@ loadout-group-security-belt = Офицер СБ, пояс
 loadout-group-security-outerclothing = Офицер СБ, верхняя одежда
 loadout-group-security-shoes = Офицер СБ, обувь
 loadout-group-security-id = Офицер СБ, ID
-loadout-group-detective-head = Детектив, голова
-loadout-group-detective-neck = Детектив, шея
-loadout-group-detective-jumpsuit = Детектив, комбинезон
-loadout-group-detective-outerclothing = Детектив, верхняя одежда
+loadout-group-detective-head = Следователь, голова
+loadout-group-detective-neck = Следователь, шея
+loadout-group-detective-jumpsuit = Следователь, комбинезон
+loadout-group-detective-outerclothing = Следователь, верхняя одежда
 loadout-group-security-cadet-jumpsuit = Кадет СБ, комбинезон
 loadout-group-security-star = СБ, Звёздочка
 # Medical

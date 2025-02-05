@@ -1384,16 +1384,16 @@ namespace Content.Client.Stylesheets
 
                 // Different Background shapes ---
                 Element<PanelContainer>().Class(ClassAngleRect)
-                    .Prop(PanelContainer.StylePropertyPanel, BaseAngleRect)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252A")),
+                 .Prop(PanelContainer.StylePropertyPanel, BaseAngleRect)
+                 .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#8025252A")), // 50% прозрачности
 
                 Element<PanelContainer>().Class("BackgroundOpenRight")
-                    .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenRight)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252A")),
+                 .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenRight)
+                 .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#8025252A")), // 50% прозрачности
 
                 Element<PanelContainer>().Class("BackgroundOpenLeft")
-                    .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenLeft)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252A")),
+                 .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenLeft)
+                 .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#8025252A")), // 50% прозрачности
                 // ---
 
                 // Dividers
